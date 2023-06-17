@@ -9,6 +9,7 @@ import Callpaper from './components/CallForPlayer/Callpaper';
 import Footer from './components/Footer';
 import Advisiory from './components/Ad-Committe/Advisiory';
 import Organization from './components/Org-Committe/Organization';
+import Register from './components/Register/Register';
 function App() {
   return (
    
@@ -21,6 +22,7 @@ function App() {
           <Route path="/Advisiory" element={<Advisiory />}/>
           <Route path="/Organization" element={<Organization />}/>
           <Route path="/Callpaper" element={<Callpaper/>}/>
+          <Route path="/Register" element={<Register/>}/>
           <Route path="/Contact" element={<Contact />}/>
       </Routes>
       <Footer/>

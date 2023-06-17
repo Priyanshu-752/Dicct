@@ -57,6 +57,7 @@ const Navbarmenu = () => {
                             </ul>
                         </li>
                         <li className="menu-item " ><NavLink onClick={toggleClass} activeClassName='is-active' to={`/Callpaper`}> Call For Paper </NavLink> </li>
+                        <li className="menu-item " ><NavLink onClick={toggleClass} activeClassName='is-active' to={`/Register`}> Register </NavLink> </li>
                         <li className="menu-item " ><NavLink onClick={toggleClass} activeClassName='is-active' to={`/Contact`}> Contact </NavLink> </li>
                     </ul>
                     </nav>     

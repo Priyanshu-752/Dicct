@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../style/CallPaper.css'
+import '../../style/Callimg.css'
 import CallImg from '../../img/call.jpg'
 
 const Callimg = () => {
