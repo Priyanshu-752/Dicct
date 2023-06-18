@@ -1,7 +1,7 @@
 .box{
     width: 80%;
     margin-left: 10%;
-    margin-top: 1%;
+    margin-top: -560px;
 }
 
 .panel p{
@@ -10,10 +10,31 @@
     text-align: left;
 }
 
+header{
+    font-size: 28px;
+  font-weight: 600;
+  padding: 1rem 0 1rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+
 
 @media screen and (max-width:640px) {
     .box{
         
-        margin-top: -480px;
+        margin-top: -730px;
+    }
+    header{
+        font-size: 25px;
+      font-weight: 600;
+      padding: 1rem 0 1rem 0;
+      display: flex;
+      justify-content: center;
+    }
+    desc{
+        font-size: 12px;
+        display: flex;
+        justify-content:space-between;
     }
 }
