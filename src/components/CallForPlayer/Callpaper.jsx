@@ -21,15 +21,11 @@ The conference includes a wide range of cutting-edge subjects relating to advanc
 •	Please be aware that in order to submit papers, authors must register their email addresses with the conference link.
 </desc>
 <header>Publication Ethics</header>
-<desc >Prior to being forwarded to a pre-conference review, each paper submitted to the ICACIS 2023 will be examined for plagiarized content using anti-plagiarism software (Turnitin). High standards for publishing ethics should be followed by authors. Falsification or fabrication of data, plagiarism, including the duplicate publishing of the author's own work without the appropriate reference, and misuse of the work are all prohibited.<br/>
+<desc className='deku'>Prior to being forwarded to a pre-conference review, each paper submitted to the ICACIS 2023 will be examined for plagiarized content using anti-plagiarism software (Turnitin). High standards for publishing ethics should be followed by authors. Falsification or fabrication of data, plagiarism, including the duplicate publishing of the author's own work without the appropriate reference, and misuse of the work are all prohibited.<br/>
 For more details, please refer to IEEE Web Page on Plagiarism through the following link: https://www.ieee.org/publications/rights/plagiarism/plagiarism.html
 </desc>
 
         </div>
-
-      
-
-    
     </>
   )
 }

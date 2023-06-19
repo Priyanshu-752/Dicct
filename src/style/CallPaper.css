@@ -1,7 +1,7 @@
 .box{
     width: 80%;
     margin-left: 10%;
-    margin-top: -560px;
+    margin-top: -520px;
 }
 
 .panel p{
@@ -17,13 +17,15 @@ header{
   display: flex;
   justify-content: center;
 }
-
+.deku{
+    padding:0 0 2rem 0;
+}
 
 
 @media screen and (max-width:640px) {
     .box{
         
-        margin-top: -730px;
+        margin-top: -680px;
     }
     header{
         font-size: 25px;
@@ -36,5 +38,8 @@ header{
         font-size: 12px;
         display: flex;
         justify-content:space-between;
+    }
+    .deku{
+        padding: 0 0 2rem 0 ;
     }
 }

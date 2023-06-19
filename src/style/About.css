@@ -1,7 +1,44 @@
 .about{
     margin: 4rem 2rem;
+    /* overflow-x: hidden; */
 }
-.into{
-    width: 60%;
-    height: 30%;
+.image{
+    width: 40%;
+    float: left;   
+    margin: 20px 30px 6px 10px;   
 }
+/* .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  } */
+  
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 40px;
+    max-width: 100%;
+  }
+
+  @media screen and (max-width:640px){
+    .text{
+      font-size: 10px;
+      padding-top: 20px;
+      overflow: hidden;
+     
+    }
+    .about{
+      margin: 2rem 1rem;
+    }
+    .head{
+      font-size: 15px;
+      font-weight: 750;
+    
+    }
+    .image{
+      width: 320px;
+      float: left;   
+      margin: 10px 0px 0px 10px;   
+  }
+
+  }
