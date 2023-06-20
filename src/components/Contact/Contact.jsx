@@ -37,15 +37,15 @@ const Contact = () => {
          {/* <h3>Contact Info</h3> */}
           <div>
             <span><IoLocationSharp/></span>
-            <p>XYZ halwani, Uttra Khand ,INDIA </p>
+            <p className='lok'>Graphic Era Hill University, Tularampur,Haldwani, Uttarakhand 263139 </p>
           </div>
-          <div>
-            <span><HiOutlineMail /></span>
+          <div >
+            <span className='loc'><HiOutlineMail /></span>
             <a href='mailto:icacis2024@gehu.ac.in'>icacis2024@gehu.ac.in</a>
           </div>
           <div>
             <span><FaPhoneSquareAlt/></span>
-            <a href='mailto:icacis2024@gehu.ac.in'>+91 123 456 7890</a>
+            <a href='mailto:icacis2024@gehu.ac.in'>+91 98683 84851</a>
           </div>
 
           <ul className="sci">

@@ -166,14 +166,14 @@ li {
 
 .header__middle__logo img{
   max-width: 207px;
-  margin: 17px 0 0 0;
+  margin: -35px 0 -80px 0;
 }
 
 
 @media(max-width:991px){
 .header__middle__logo {width: 77%;}
 .header__middle__menus {width: 20%;}
-.header__middle__logo img {max-width: 197px;margin: 27px 0 0 0;}
+.header__middle__logo img {max-width: 197px;margin: -17px 0 -45px 0;}
 .main-nav .menubar__button:hover {background-color: #000000;}
 .main-nav .menu-item:hover > a {color: #07a8ff !important}
 .main-nav .menubar__button {

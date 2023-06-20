@@ -44,10 +44,10 @@ const Register = () => {
       </table>
       
 </div>
-<div className='headss'>
+{/* <div className='headss'>
 <header className='heads'><span className='pro'>Estimated participants: </span> 50-100</header>
       <header className='heads'><span className='pro'>Proposed Publication:</span> 50-100</header>
-</div>
+</div> */}
 
       <header className='head'>Fees Structure</header>
       <table>
