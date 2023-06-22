@@ -9,7 +9,7 @@ const Aboutimg = () => {
       </div>
       <div className="content_1">
         <p>About Us</p>
-        <h1>DICCT 2024 | Graphic Era Hill University Haldwani</h1>
+        <h1>ICACIS 2023 | Graphic Era Hill University Haldwani</h1>
        
       </div>
     </div>

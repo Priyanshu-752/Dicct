@@ -86,7 +86,7 @@ const Register = () => {
           </tr>
         </thead>
       </table>
-      <button className='btn'>Register</button>
+      <a href='https://forms.gle/b1uvfyugnwDDaTReA'><button className='btn'> Register</button></a>
       <header className='head'>Proposed Outcome of The Conferences:</header>
       <desc className='dec'>• The Conferences will offer a premier setting for business professionals to network and report on the most recent advancements while also giving researchers and academics with  high productivity and quality a platform. to provide an overview of the current state of the art and to share new developments in computer, information science and its applications.<br/>
       • The Conference promotes important conceptual and applied contributions to all key areas of computer science, engineering, and information sciences.<br/>

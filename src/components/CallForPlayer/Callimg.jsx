@@ -10,7 +10,7 @@ const Callimg = () => {
       </div>
       <div className="content_3">
         <p>Call For Paper</p>
-        <h1>DICCT 2024 | Graphic Era Hill University Haldwani</h1>
+        <h1>ICACIS 2023 | Graphic Era Hill University Haldwani</h1>
        
       </div>
     </div>

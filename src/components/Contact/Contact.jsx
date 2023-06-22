@@ -49,10 +49,10 @@ const Contact = () => {
           </div>
 
           <ul className="sci">
-            <li><Link to="#"><FaFacebookSquare/></Link></li>
-            <li><Link to="#"><FaTwitter/></Link></li>
-            <li><Link to="#"><FaInstagram /></Link></li>
-            <li><Link to="#"><FaLinkedinIn /></Link></li>
+            <li><Link to="https://www.facebook.com/gehuhaldwaniofficial"><FaFacebookSquare/></Link></li>
+            <li><Link to="https://twitter.com/HillHaldwani"><FaTwitter/></Link></li>
+            <li><Link to="https://www.instagram.com/gehuhaldwaniofficial/"><FaInstagram /></Link></li>
+            <li><Link to="https://www.linkedin.com/school/graphicerahilluniversity/mycompany/verification/"><FaLinkedinIn /></Link></li>
           </ul>
          </div>
         </div>

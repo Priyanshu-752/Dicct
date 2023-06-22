@@ -10,7 +10,7 @@ const RegImg = () => {
     </div>
     <div className="content_7">
       <p>Register</p>
-      <h1>DICCT 2027 | Graphic Era Hill University Haldwani</h1>
+      <h1>ICACIS 2023 | Graphic Era Hill University Haldwani</h1>
      
     </div>
   </div>

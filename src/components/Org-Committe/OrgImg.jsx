@@ -10,7 +10,7 @@ const OrgImg = () => {
     </div>
     <div className="content_5">
       <p>Organizing Committee</p>
-      <h1>DICCT 2024 | Graphic Era Hill University Haldwani</h1>
+      <h1>ICACIS 2023 | Graphic Era Hill University Haldwani</h1>
      
     </div>
   </div>

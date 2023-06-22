@@ -141,7 +141,7 @@ li {
 }
 
 @media (max-width:767px) { 
-  .header__middle .active {color: #ff3d00!important;}
+  .header__middle .active {color: #0d2ec0!important;}
 }
 
 @media (min-width:992px) { 
@@ -179,7 +179,7 @@ li {
 .main-nav .menubar__button {
   display: block!important;
   float: right;
-  background-color: #eb2424;
+  background-color: #060f47;
   color: #ffffff;
   padding: 7px 7px 1px 7px;
   border-radius: 5px;
@@ -195,7 +195,7 @@ li {
   left: 0;
   z-index: 10007;
   background-color: #d8f1ff;
-  border-bottom: 3px solid #ff3d00;
+  border-bottom: 3px solid #060f47;
   right: 0;
   padding-bottom: 17px;
   padding-top: 57px;
