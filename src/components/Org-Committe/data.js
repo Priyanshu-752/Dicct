@@ -74,7 +74,7 @@ Head CSE, Graphic Era Hill University, Haldwani, UK, India
     <ol>
       <li>
          
-        <b>Prof. Mukesh Kumar Sahu</b>,Graphic Era Hill University, Haldwani, UK, India
+        <b>Mr. Mukesh Kumar Sahu</b>,Graphic Era Hill University, Haldwani, UK, India
           
       </li>
     </ol>
