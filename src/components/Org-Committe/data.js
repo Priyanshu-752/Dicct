@@ -61,7 +61,7 @@ Director, Graphic Era Hill University, Haldwani, UK, India
   answer:   (
     <ol>
       <li>
-         <b>Prof. Ishwari Singh Rajput</b> <br />
+         <b>Mr. Ishwari Singh Rajput</b> <br />
 Head CSE, Graphic Era Hill University, Haldwani, UK, India  
       </li>
     </ol>
