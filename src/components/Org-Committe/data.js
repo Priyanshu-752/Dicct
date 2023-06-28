@@ -8,7 +8,7 @@ export const data =
     answer:(<ol>
       <li>  
         <b>Prof. (Dr.) Kamal Ghanshala</b>  <br/>President, Chancellor, Graphic Era Hill University, Dehradun, UK, India
-    </li></ol>)},
+    </li></ol>),},
   
   {
     

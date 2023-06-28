@@ -7,12 +7,12 @@ const About = () => {
   return (
     <div>
       <AboutImg/>
-      <div className='about'>
+      <div className='about_1'>
 
-      <header className='head'>About Event</header>
-      <div className='container'>
-      <img className="image" src={AtImg} alt="IntroImg" />
-      <desc className='text'>The 21st century is earmarked as Information Technology driven and India 
+      <header className='head_1'>About Event</header>
+      <div className='container_1'>
+      <img className="image_1" src={AtImg} alt="IntroImg" />
+      <desc className='text_1'>The 21st century is earmarked as Information Technology driven and India 
       is at the Centre of global attraction and considered as a knowledge powerhouse.Keeping in mind, 
       research experiences can transform faculties conception and understanding the reasonability of 
       educational institute, the First International Conferences on Advanced Computing and Information

@@ -7,7 +7,6 @@ const Home = () => {
     <div>
      <HeroImg  />
      <div className='about'>
-
 <header className='head'> Graphic Era Hill University, Haldwani</header>
 <div className='container'>
 <img className="images" src={HmImg} alt="IntroImg" />

@@ -1,7 +1,6 @@
 .about{
-    margin: 4rem 2rem;
-  
-    /* overflow-x: hidden; */
+  margin-top: -400px;
+  margin-bottom: 150px;
 }
 .images{
     width: 360px;
@@ -9,16 +8,9 @@
     float: left;   
     margin: 5px 40px 16px 18px;   
 }
-/* .container {
-    display: flex;
-    align-items: center;
-    justify-content: center
-  } */
 
   .text {
     font-size: 20px;
-    /* padding-left: 20px;
-    padding-top: 20px; */
     max-width: 100%;
     text-align:justify;
   }
@@ -28,23 +20,31 @@
       font-size: 15px;
       padding-top: 20px;
       overflow: hidden;
-      
-     
     }
     .about{
       margin: 2rem 1rem;
+      position: relative;
+      margin-top: -400px;
     }
     .head{
-      font-size: 10px;
+      font-size: 18px;
       font-weight: 750;
-    
+     
     }
     .images{
       width: 320px;
       float: left;   
       margin: 10px 0px 0px 0px;  
-     
+  }
   }
 
+  @media screen and (max-width:440px){
+  .container{
+    display: flex;
+    flex-direction: column;
+  }
+
+
+    
   }
 

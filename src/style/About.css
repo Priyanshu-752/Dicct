@@ -1,8 +1,8 @@
-.about{
+.about_1{
     margin: 4rem 2rem;
     /* overflow-x: hidden; */
 }
-.image{
+.image_1{
     width: 40%;
     float: left;   
     margin: 20px 30px 16px 10px;   
@@ -12,10 +12,11 @@
     align-items: center;
     justify-content: center
   } */
-  .head{
+  .head_1{
     font-size: 40px;
+    margin-top: 20px;
   }
-  .text {
+  .text_1 {
     font-size: 20px;
     padding-left: 20px;
     padding-top: 40px;
@@ -23,34 +24,43 @@
   }
 
   @media screen and (max-width:640px){
-    .text{
+    .text_1{
       font-size: 15px;
       padding-top: 20px;
-      overflow: hidden;
-     
+      overflow: hidden;  
     }
-    .about{
+    .about_1{
       margin: 2rem 1rem;
     }
-    .head{
+    .head_1{
       font-size: 20px;
       font-weight: 750;
       margin-top: 60px;
     
     }
-    .image{
-      width: 320px;
+    .image_1{
+      width: 360px;
       float: left;   
       margin: 10px 0px 0px 10px;   
   }
+  .container_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align:justify;
+  }
 
   }
 
-  @media screen and (max-width:440px){
-    .text{
+  @media screen and (max-width:380px){
+    .text_1{
       font-size: 15px;
       padding-top: 20px;
       margin-left: -21px;
-     
     }
+    .image_1{
+      width: 290px;
+      margin: 10px 0px 0px 0px; 
   }
+}
