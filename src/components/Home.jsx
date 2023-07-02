@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroImg from './Heroimg'
 import "../style/Home.css"
-import  HmImg  from "../img/hm.jpg"
+import  HmImg  from "../img/org.jpg"
 const Home = () => {
   return (
     <div>
