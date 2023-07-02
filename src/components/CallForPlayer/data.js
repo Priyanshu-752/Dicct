@@ -1,34 +1,16 @@
 export const data = [
     {
       question: "Track 1: Advanced Computing",
-      answer:(
-          <ol>
-            <li>
-            •Cloud Computing<br/> •Soft Computing and Deep Learning<br/> •Distributed and Parallel Computing<br/> •Human-Centred Computing<br/> •Internet of Things<br/> •Database Systems, Data Warehousing<br/> •Web Services and Technologies<br/> •Artificial Intelligence and Machine Learning<br/> •E–Computer Systems<br/> •Digital IC Design and Testing<br/> •Computer Graphics, Virtual Reality and Computer Vision<br/> •Biomedical Instrumentation and Sensors
-            </li>
-          </ol>),
+      answer:
+         "•Cloud Computing •Soft Computing and Deep Learning •Distributed and Parallel Computing •Human-Centred Computing •Internet of Things •Database Systems, Data Warehousing •Web Services and Technologies •Artificial Intelligence and Machine Learning •E–Computer Systems •Digital IC Design and Testing •Computer Graphics, Virtual Reality and Computer Vision •Biomedical Instrumentation and Sensors "
     },
     {
       question: "Track 2: Information Sciences ",
-      answer:(
-        <ol>
-          <li>
-          • Network Coding and Information Theory<br/> • Computer Networking<br/> •	Big Data and Analytics<br/> •	Image and Video Processing<br/> •	Data Mining<br/> •	Wireless Communication and Sensor Networks<br/> •	Optical Communication<br/> •	Signal Processing<br/> •	Computer Networks<br/> •	Intelligent Internet Modeling<br/> •	Innovative Information Security
-          </li>
-        </ol>),
+      answer:"• Network Coding and Information Theory • Computer Networking •	Big Data and Analytics •	Image and Video Processing •	Data Mining •	Wireless Communication and Sensor Networks •	Optical Communication •	Signal Processing •	Computer Networks •	Intelligent Internet Modeling •	Innovative Information Security "
     },
     {
       question: "Track 3: Software Engineering",
-      answer:(
-      <ol>
-        <li> • Software Development </li>
-        <li>•	Software Process </li>
-          <li> • Managing Software Projects </li>
-          <li>•	Software Maintenance and Testing </li>
-          <li>•	Web Engineering  </li>
-          <li>•	Software Reliability </li>
-          <li>•	Search Engines and Information </li>
-
-      </ol>),
+      answer: "• Software Development •	Software Process • Managing Software Projects •	Software Maintenance and Testing •	Web Engineering  •	Software Reliability •	Search Engines and Information "
+    
     },
   ];
