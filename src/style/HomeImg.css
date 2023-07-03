@@ -53,8 +53,7 @@
     left: 50%;
     text-align: center;
     color: white;
-         animation-duration: 2s;
-  animation-name: slidein;
+
 }
 
 .hero .content p{
@@ -99,6 +98,8 @@
     font-weight: 600;
     position: relative;
     top: 0px;   
+    animation-duration: 2s;
+    animation-name: slidein;
 }
 
 
