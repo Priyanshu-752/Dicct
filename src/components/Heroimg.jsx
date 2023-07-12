@@ -1,12 +1,13 @@
 import React from 'react'
 import {IoLocationSharp, IoCalendarOutline} from 'react-icons/io5'
 import "../style/HomeImg.css"
+import   HmIg from "../img/org.jpg"
 
 const Heroimg = () => {
   return (
     <div className="hero">
       <div className="mask">
-        <div className="into-img"  alt="IntroImg" />
+        <img className='into-img' src={HmIg} alt='home' />
       </div>
       <div className="content">
       <header className='poster'>1st International Conference on Advanced Computing and Information Science <br/> ICACIS 2023</header>

@@ -10,9 +10,9 @@
     background-size: cover;
     /* background-position: center;
     object-fit: cover; */
-    animation: changeImage 30s linear infinite;
+    /* animation: changeImage 30s linear infinite; */
 }
-@keyframes changeImage {
+/* @keyframes changeImage {
     0%{
         background-image: url("../img/org.jpg");
     }
@@ -28,7 +28,7 @@
     100%{
         background-image: url("../img/abt.jpg");
     }
-}
+} */
 
 .mask::after{
     content: "";
